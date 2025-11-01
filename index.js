@@ -5,7 +5,7 @@ let slider = document.querySelector('.image-container')
 let container = document.querySelector('.container');
 let dots = document.querySelector('.dots');
 
-console.log("version 12");
+console.log("version 13");
 
 console.log(leftButton,rightButton);
 let i = 0;
